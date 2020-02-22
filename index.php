@@ -1,0 +1,29 @@
+<html>
+<head>
+<title>Hacked By FajarTheGGman</title>
+</head>
+
+<style>
+body{
+
+background: black;
+
+}
+
+h1{
+
+background: yellow;
+
+font: 35px sans-serif;
+
+margin-top: 35%;
+
+}
+
+</style>
+
+<body>
+<h1>Hacked By FajarTheGGman</h1>
+</body>
+
+</html>
